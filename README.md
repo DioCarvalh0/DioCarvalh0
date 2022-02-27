@@ -4,7 +4,6 @@
 - 🌱 Estudando HTML, CSS, JS e Java Mobile.
 - ⚡ Cursando o 3º semestre de Ciência da Computação na UNISAGRADO (USC)!
 - 😄 Pronouns: Ele/dele.
-- 📧 Contato: diogocarvalho191812@gmail.com
 
 <div align="center">
   <a href="https://github.com/DioCarvalh0">
