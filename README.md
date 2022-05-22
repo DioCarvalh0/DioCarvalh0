@@ -1,7 +1,7 @@
 ## Opa, bão?! Prazer, eu sou o Diogo, mas podem me chamar de Dio! 👾
 
 - 🔭 Hoje trabalho com Help Desk.
-- 🌱 Estudando HTML, CSS, JS e Java Mobile.
+- 🌱 Estudando HTML, CSS e JAVA.
 - ⚡ Cursando o 3º semestre de Ciência da Computação na UNISAGRADO (USC)!
 - 😄 Pronouns: Ele/dele.
 
