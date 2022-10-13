@@ -1,7 +1,7 @@
 ## Opa, bão?! Prazer, eu sou o Diogo, mas podem me chamar de Dio! 👾
 
-- 🔭 Desenvolvedor Delphi.
-- 🌱 Estudando REACTJS, GO.
+- 🔭 Desenvolvedor de Software.
+- 🌱 Estudando HTML, CSS, JS, REACTJS.
 - ⚡ Cursando o 3º semestre de Ciência da Computação na UNISAGRADO (USC)!
 - 😄 Pronouns: Ele/dele.
 
