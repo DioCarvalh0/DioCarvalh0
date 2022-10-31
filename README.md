@@ -1,9 +1,8 @@
 ## Opa, bão?! Prazer, eu sou o Diogo, mas podem me chamar de Dio! 👾
 
 - 🔭 Desenvolvedor de Software.
-- 🌱 Estudando HTML, CSS, JS, REACTJS.
-- ⚡ Cursando o 3º semestre de Ciência da Computação na UNISAGRADO (USC)!
-- 😄 Pronouns: Ele/dele.
+- 🌱 Estudando JAVA e REACTJS.
+- ⚡ Cursando o 4º semestre de Ciência da Computação na UNISAGRADO (USC)!
 
 <div align="center">
   <a href="https://github.com/DioCarvalh0">
