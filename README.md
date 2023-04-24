@@ -3,12 +3,6 @@
 - 🔭 Desenvolvedor de Software.
 - 🌱 Estudando JAVA e REACTJS.
 - ⚡ Cursando o 4º semestre de Ciência da Computação na UNISAGRADO (USC)!
-
-<div align="center">
-  <a href="https://github.com/DioCarvalh0">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DioCarvalh0&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DioCarvalh0&layout=compact&langs_count=7&theme=great-gatsby"/>
-</div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Dio-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
