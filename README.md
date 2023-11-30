@@ -1,8 +1,8 @@
 ## Opa, bão?! Prazer, eu sou o Diogo, mas podem me chamar de Dio! 👾
 
 - 🔭 Desenvolvedor de Software.
-- 🌱 Estudando JAVA e REACTJS.
-- ⚡ Cursando o 5º semestre de Ciência da Computação na UNISAGRADO (USC)!
+- 🌱 Estudando WEB com ênfase em PHP.
+- ⚡ Cursando o 6º semestre de Ciência da Computação na UNISAGRADO (USC)!
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Dio-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
