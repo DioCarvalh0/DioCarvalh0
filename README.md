@@ -8,7 +8,7 @@
   <img align="center" alt="Dio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Dio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Dio-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  
+  <img align="center" alt="Dio-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
   <img align="right" alt="Dio-pic" height="150" style="border-radius:100px;" src="https://i.pinimg.com/originals/cf/95/f4/cf95f4edc1ccb8b39a708ad13a8af8e7.gif">
 </div>
   
