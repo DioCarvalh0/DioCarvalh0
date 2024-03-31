@@ -2,7 +2,7 @@
 
 - 🔭 Desenvolvedor de Software.
 - 🌱 Estudando WEB com ênfase em PHP.
-- ⚡ Cursando o 6º semestre de Ciência da Computação na UNISAGRADO (USC)!
+- ⚡ Cursando o 7º semestre de Ciência da Computação na UNISAGRADO (USC)!
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Dio-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
